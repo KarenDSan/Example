@@ -1,6 +1,8 @@
 ---
 title: "Example"
-output: html_document
+author: Karen Sanchez
+date: "2/12/2021"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
